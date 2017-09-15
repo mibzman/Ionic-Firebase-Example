@@ -1,3 +1,3 @@
 ## Note:
 
-This example project was originally from a project titles 'sybil'
+This example project was originally from another project titled 'sybil'
